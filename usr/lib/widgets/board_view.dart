@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'models.dart';
+import '../models.dart';
 
 class BoardView extends StatelessWidget {
   final Board board;

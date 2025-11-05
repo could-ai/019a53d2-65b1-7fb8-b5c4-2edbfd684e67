@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 import 'screens/board_screen.dart';
 import 'screens/task_detail_screen.dart';
-import 'models/workspace.dart';
-import 'models/board.dart';
-import 'models/task.dart';
 
 void main() {
   runApp(const MyApp());
